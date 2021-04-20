@@ -1,5 +1,7 @@
 .search-block {
     max-width: 320px;
+    height: 100%;
+    position: relative;
 
     .search-block__form{
         height: 100px;
@@ -38,5 +40,12 @@
 
 
         // book height: 125px
+    }
+
+    .search-block__nav {
+        height: 60px;
+        position: absolute;
+        bottom: 0px;
+        background-color: $colorBlueMain;
     }
 }

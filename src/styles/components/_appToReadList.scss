@@ -1,0 +1,18 @@
+.appToReadList {
+
+    max-width: $breakpoint-phone;
+    height: 100%;
+    margin: 0 auto;
+
+    .description-block {
+        display: none;
+    }
+
+    .to-read-block {
+        display: none;
+    }
+    // @media (max-width: $breakpoint-phone - 1) {
+        
+    // }
+
+}

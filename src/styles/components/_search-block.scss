@@ -3,10 +3,16 @@
     height: 100%;
     position: relative;
 
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+
     .search-block__form{
         height: 100px;
         background-color: $colorBlueMain;
         padding: 30px 5px;
+        flex-shrink: 1;
+
         display: flex;
         flex-direction: row;
         align-items: center;
@@ -29,23 +35,45 @@
             
             cursor: pointer;
         }
+    }
 
+    .search-block__result {
+        background-color: gray;
+        flex-grow: 1;
+        overflow: auto;
+        min-height: 2em;
+        
+         // book height: 125px
 
-
-
-        //337x40 = input + button; отступы 29 27 30 30
-        // 95x40 = button
-        // 223x40 = input
-
-
-
-        // book height: 125px
     }
 
     .search-block__nav {
         height: 60px;
-        position: absolute;
-        bottom: 0px;
         background-color: $colorBlueMain;
+        flex-shrink: 0;
+        
+        display: flex;
+        flex-direction: row;
+
+        button {
+            width: 50px;
+            background-color: $colorBlueSecondary;
+            font-size: 1.5rem;
+            color: $colorWhite;
+            cursor: pointer;
+
+            background-image: url(/src/img/arrow.svg);
+            background-repeat: no-repeat;
+            background-size: contain;
+            background-position: center;
+
+            &.search-block__nav-prev {
+                transform: rotate(180deg);
+            }
+        }
+
+        .search-block__nav-info {
+            flex-grow: 1;
+        }
     }
 }

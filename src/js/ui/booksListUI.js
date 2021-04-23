@@ -1,8 +1,8 @@
 export class BooksListUI {
     searchResultHolder;
-    // bookInfoHolder;
-    // currentPage = [];
-    // api;
+    bookInfoHolder;
+    currentPage = [];
+    api;
   
     constructor(api) {
         this.searchResultHolder =  document.getElementById("searchResultHolder");
@@ -17,6 +17,24 @@ export class BooksListUI {
                 this.sendSearchRequest(api);
             }
         });
+        this.searchResultHolder.addEventListener("click", (event) => {
+            const targetDiv = event.target;
+            const id = targetDiv.id;
+
+            const selectedBook = this.currentPage.find((item) => item.id === id);
+            if (!selectedBook) {
+                return;
+            }
+            if (this.selectedBook) {
+                const selectedBook = this.searchResultHolder.querySelector(`#${this.selectedBook.id}`);
+                selectedBook.classList.remove("book_selected");
+            }
+            
+            this.selectedBook = selectedBook;
+            targetDiv.classList.add("book_selected");
+
+            // this.searchResultHolder.querySelector(`#${event.target.id}`);
+        })
     }
 
     sendSearchRequest = (api) => {
@@ -37,7 +55,10 @@ export class BooksListUI {
             item.id = item.key.split("/").pop();
         });
 
-        console.log(result.docs);
+        // console.log(result.docs);
+
+        this.currentPage = result.docs;
+
         const booksListHTML = result.docs.reduce((accumulator, currentValue) => {
             return (
                 accumulator + `

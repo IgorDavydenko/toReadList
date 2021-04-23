@@ -8,30 +8,35 @@
     flex-wrap: nowrap;
 
     .search-block__form{
-        height: 100px;
-        background-color: $colorBlueMain;
-        padding: 30px 5px;
+        // height: 100px;
+        background-color: $colorGreenMain;
+        padding: 20px 5px;
         flex-shrink: 1;
 
         display: flex;
-        flex-direction: row;
+        flex-direction: column;
         align-items: center;
         justify-content: center;
 
         input {
-            width: 225px;
+            width: 300px;
             height: 40px;
-            background-color: $colorBlueSecondary;
+            background-color: $colorGray;
+            color: $colorGrayDark;
+            border: 2px solid $colorGray;
+            border-radius: 15px;
             padding-left: 5px;
         }
 
         button {
-            width: 75px;
+            width: 150px;
             height: 40px;
-            background-color: $colorMonument;
-            border-radius: 5px;
+            margin-top: 5px;
+            background-color: Transparent;
+            border: 2px solid $colorGray;
+            border-radius: 15px;
             font-size: 1.5rem;
-            color: $colorWhite;
+            color: $colorGray;
             
             cursor: pointer;
         }
@@ -49,7 +54,7 @@
 
     .search-block__nav {
         height: 60px;
-        background-color: $colorBlueMain;
+        background-color: $colorGreenMain;
         flex-shrink: 0;
         
         display: flex;
@@ -57,7 +62,9 @@
 
         button {
             width: 50px;
-            background-color: $colorBlueSecondary;
+            background-color: transparent;
+            border: 2px solid $colorGray;
+            border-radius: 15px;
             font-size: 1.5rem;
             color: $colorWhite;
             cursor: pointer;

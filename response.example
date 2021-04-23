@@ -1,0 +1,102 @@
+(100) [{…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}]
+0: {has_fulltext: false, title: "ARC De Triomphe", title_suggest: "ARC De Triomphe", type: "work", ebook_count_i: 0, …}
+1: {has_fulltext: false, title: "Schatten Im Paradies", title_suggest: "Schatten Im Paradies", type: "work", ebook_count_i: 0, …}
+2: {cover_i: 6845668, has_fulltext: true, title: "Remarques", title_suggest: "Remarques", ia_collection_s: "toronto;kellylibrary", …}
+3: {has_fulltext: false, title: "Remarques", title_suggest: "Remarques", type: "work", ebook_count_i: 0, …}
+4: {has_fulltext: false, title: "Remarques.", title_suggest: "Remarques.", type: "work", ebook_count_i: 0, …}
+5: {has_fulltext: false, title: "Remarques", title_suggest: "Remarques", type: "work", ebook_count_i: 0, …}
+6: {cover_i: 6844600, has_fulltext: true, title: "Remarques", title_suggest: "Remarques", ia_collection_s: "toronto;kellylibrary", …}
+7: {has_fulltext: false, title: "Remarques", title_suggest: "Remarques", type: "work", ebook_count_i: 0, …}
+8: {has_fulltext: false, title: "Remarque", title_suggest: "Remarque", type: "work", ebook_count_i: 0, …}
+9: {cover_i: 2138743, has_fulltext: true, title: "Remarques", title_suggest: "Remarques", lending_identifier_s: "remarques0000suar_2", …}
+10: {has_fulltext: false, title: "Remarques", title_suggest: "Remarques", type: "work", ebook_count_i: 0, …}
+11: {has_fulltext: false, title: "Remarques", title_suggest: "Remarques", type: "work", ebook_count_i: 0, …}
+12: {cover_i: 2181124, has_fulltext: false, title: "Remarques", title_suggest: "Remarques", type: "work", …}
+13: {key: "/works/OL1209321W", type: "work", title: "All Quiet on the Western Front", title_suggest: "All Quiet on the Western Front", has_fulltext: true, …}
+14: {cover_i: 2207057, has_fulltext: false, title: "Drei Kameraden", title_suggest: "Drei Kameraden", type: "work", …}
+15: {cover_i: 1010979, has_fulltext: false, title: "Der Funke Leben", title_suggest: "Der Funke Leben", type: "work", …}
+16: {cover_i: 3205673, has_fulltext: false, title: "Der Feind", title_suggest: "Der Feind", type: "work", …}
+17: {cover_i: 5040711, has_fulltext: false, title: "Im Westen Nichts Neues (Twentieth Century Texts)", title_suggest: "Im Westen Nichts Neues (Twentieth Century Texts)", type: "work", …}
+18: {has_fulltext: false, title: "De hand van Obama", title_suggest: "De hand van Obama", type: "work", ebook_count_i: 0, …}
+19: {has_fulltext: false, title: "De hand van Obama", title_suggest: "De hand van Obama", type: "work", ebook_count_i: 0, …}
+20: {cover_i: 291249, has_fulltext: true, title: "Arc de triomphe", title_suggest: "Arc de triomphe", lending_identifier_s: "archoftriumph0000rema", …}
+21: {cover_i: 6569785, has_fulltext: true, title: "Three Comrades (Drei Kameraden)", title_suggest: "Three Comrades (Drei Kameraden)", lending_identifier_s: "threecomrades00rema_1", …}
+22: {has_fulltext: true, title: "Zeit zu leben und Zeit zu sterben", title_suggest: "Zeit zu leben und Zeit zu sterben", lending_identifier_s: "timetoloveandtim0000rema", ia_collection_s: "printdisabled;fav-thelittlestspider;internetarchivebooks;trent_university;fav-nol26;inlibrary", …}
+23: {cover_i: 291251, has_fulltext: false, title: "Liebe deinen Nächsten", title_suggest: "Liebe deinen Nächsten", type: "work", …}
+24: {cover_i: 4407007, has_fulltext: true, title: "Schatten im Paradies", title_suggest: "Schatten im Paradies", ia_collection_s: "printdisabled;china;internetarchivebooks", …}
+25: {cover_i: 957099, has_fulltext: true, title: "Schwarze Obelisk", title_suggest: "Schwarze Obelisk", lending_identifier_s: "blackobelisk00rema", …}
+26: {cover_i: 7900627, has_fulltext: true, title: "Der Weg zurück", title_suggest: "Der Weg zurück", ia_collection_s: "americana;duke_libraries", …}
+27: {has_fulltext: true, title: "A l'ouest rien de nouveau", title_suggest: "A l'ouest rien de nouveau", ia_collection_s: "printdisabled;librarygenesis", type: "work", …}
+28: {cover_i: 291250, has_fulltext: true, title: "Weg zurück", title_suggest: "Weg zurück", lending_identifier_s: "roadback00rema", …}
+29: {cover_i: 291248, has_fulltext: false, title: "Der schwarze Obelisk", title_suggest: "Der schwarze Obelisk", type: "work", …}
+30: {cover_i: 291254, has_fulltext: true, title: "Funke Leben", title_suggest: "Funke Leben", lending_identifier_s: "sparkoflife00rema", …}
+31: {cover_i: 5303102, has_fulltext: true, title: "Die Nacht von Lissabon", title_suggest: "Die Nacht von Lissabon", ia_collection_s: "printdisabled;librarygenesis", …}
+32: {cover_i: 291247, has_fulltext: true, title: "Nacht von Lissabon", title_suggest: "Nacht von Lissabon", lending_identifier_s: "nightinlisbon00rema", …}
+33: {cover_i: 291254, has_fulltext: false, title: "Der Funke Leben", title_suggest: "Der Funke Leben", type: "work", …}
+34: {subtitle: "novela", has_fulltext: false, title: "Sin Novedad En El Frente", title_suggest: "Sin Novedad En El Frente", type: "work", …}
+35: {has_fulltext: false, title: "Der Himmel kennt keine Günstlinge", title_suggest: "Der Himmel kennt keine Günstlinge", type: "work", ebook_count_i: 0, …}
+36: {has_fulltext: false, title: "Heaven has no favourites", title_suggest: "Heaven has no favourites", type: "work", ebook_count_i: 0, …}
+37: {cover_i: 3742986, has_fulltext: false, title: "Himmel kennt keine Günstlinge", title_suggest: "Himmel kennt keine Günstlinge", type: "work", …}
+38: {cover_i: 3752705, subtitle: "frühe Prosa, Werke aus dem Nachlass, Briefe und Tagebücher", has_fulltext: false, title: "Das unbekannte Werk", title_suggest: "Das unbekannte Werk", …}
+39: {has_fulltext: false, title: "Bobby Deerfield", title_suggest: "Bobby Deerfield", type: "work", ebook_count_i: 0, …}
+40: {cover_i: 2207055, has_fulltext: false, title: "Station am Horizont", title_suggest: "Station am Horizont", type: "work", …}
+41: {subtitle: "Texte und Interviews 1929-1966", has_fulltext: false, title: "Ein militanter Pazifist", title_suggest: "Ein militanter Pazifist", type: "work", …}
+42: {cover_i: 1010982, has_fulltext: false, title: "Der Weg Zuruck", title_suggest: "Der Weg Zuruck", type: "work", …}
+43: {cover_i: 6596162, has_fulltext: false, title: "Der Feind", title_suggest: "Der Feind", type: "work", …}
+44: {has_fulltext: false, title: "Liebe deinen Nachsten", title_suggest: "Liebe deinen Nachsten", type: "work", ebook_count_i: 0, …}
+45: {subtitle: "Drei Romane.", has_fulltext: false, title: "Drei Kameraden. Arc de triomphe. Liebe deinen Nächsten", title_suggest: "Drei Kameraden. Arc de triomphe. Liebe deinen Nächsten", type: "work", …}
+46: {has_fulltext: false, title: "Drei romane", title_suggest: "Drei romane", type: "work", ebook_count_i: 0, …}
+47: {has_fulltext: false, title: "F. Scott Fitzgerald's Screenplay for Three Comrades", title_suggest: "F. Scott Fitzgerald's Screenplay for Three Comrades", type: "work", ebook_count_i: 0, …}
+48: {has_fulltext: false, title: "Erich Maria Remarque zum 70. Geburtstag am 22. Juni 1968", title_suggest: "Erich Maria Remarque zum 70. Geburtstag am 22. Juni 1968", type: "work", ebook_count_i: 0, …}
+49: {has_fulltext: true, title: "Die Nacht von Lissabon", title_suggest: "Die Nacht von Lissabon", ia_collection_s: "printdisabled;librarygenesis", type: "work", …}
+50: {cover_i: 10434976, has_fulltext: false, title: "Der Funke Leben", title_suggest: "Der Funke Leben", type: "work", …}
+51: {cover_i: 10433710, has_fulltext: false, title: "Arc de Triomphe", title_suggest: "Arc de Triomphe", type: "work", …}
+52: {has_fulltext: false, title: "Tri tovarischa", title_suggest: "Tri tovarischa", type: "work", ebook_count_i: 0, …}
+53: {cover_i: 8934655, has_fulltext: false, title: "Lektürehilfen "Im Westen nichts Neues"", title_suggest: "Lektürehilfen "Im Westen nichts Neues"", type: "work", …}
+54: {cover_i: 8937455, has_fulltext: false, title: "Im Westen Nichts Neues", title_suggest: "Im Westen Nichts Neues", type: "work", …}
+55: {cover_i: 8983047, has_fulltext: false, title: "Im Westen nichts Neues", title_suggest: "Im Westen nichts Neues", type: "work", …}
+56: {has_fulltext: false, title: "Der Himmel Kennt Keine Guenstlinge", title_suggest: "Der Himmel Kennt Keine Guenstlinge", type: "work", ebook_count_i: 0, …}
+57: {has_fulltext: false, title: "Powiedz, że mnie kochasz", title_suggest: "Powiedz, że mnie kochasz", type: "work", ebook_count_i: 0, …}
+58: {has_fulltext: false, title: "Xi xian wu zhan shi =", title_suggest: "Xi xian wu zhan shi =", type: "work", ebook_count_i: 0, …}
+59: {cover_i: 7965703, has_fulltext: true, title: "Wro g", title_suggest: "Wro g", lending_identifier_s: "isbn_9788307026398", …}
+60: {has_fulltext: false, title: "Road Back", title_suggest: "Road Back", type: "work", ebook_count_i: 0, …}
+61: {has_fulltext: false, title: "Der veg oyf tsurik", title_suggest: "Der veg oyf tsurik", type: "work", ebook_count_i: 0, …}
+62: {subtitle: "Gėm ; Stant︠s︡ií`a na gorizonte", has_fulltext: false, title: "Prií`ut grez", title_suggest: "Prií`ut grez", type: "work", …}
+63: {has_fulltext: false, title: "L'obélisque noir", title_suggest: "L'obélisque noir", type: "work", ebook_count_i: 0, …}
+64: {has_fulltext: false, title: "Der Pazifist. Texte und Interviews 1929-1966", title_suggest: "Der Pazifist. Texte und Interviews 1929-1966", type: "work", ebook_count_i: 0, …}
+65: {subtitle: ""Road back" no anuvāda", has_fulltext: false, title: "Gharane mārage", title_suggest: "Gharane mārage", type: "work", …}
+66: {has_fulltext: false, title: "Herbstfahrt eines Phantasten. Erzählungen und Essays", title_suggest: "Herbstfahrt eines Phantasten. Erzählungen und Essays", type: "work", ebook_count_i: 0, …}
+67: {has_fulltext: false, title: "Shadows in Paradise, 1971 (IN RUSSIAN LANGUAGE) (Teni v raju / Schatten im Paradies /   )", title_suggest: "Shadows in Paradise, 1971 (IN RUSSIAN LANGUAGE) (Teni v raju / Schatten im Paradies /   )", type: "work", ebook_count_i: 0, …}
+68: {has_fulltext: false, title: "Un temps pour vivre, un temps pour mourir", title_suggest: "Un temps pour vivre, un temps pour mourir", type: "work", ebook_count_i: 0, …}
+69: {has_fulltext: false, title: "Der Himmel Kennt Keine Gunstlinge", title_suggest: "Der Himmel Kennt Keine Gunstlinge", type: "work", ebook_count_i: 0, …}
+70: {has_fulltext: false, title: "Zemlí`a obetovannaí`a", title_suggest: "Zemlí`a obetovannaí`a", type: "work", ebook_count_i: 0, …}
+71: {has_fulltext: false, title: "Gėm", title_suggest: "Gėm", type: "work", ebook_count_i: 0, …}
+72: {has_fulltext: false, title: "Sheng si cun wang de shi dai", title_suggest: "Sheng si cun wang de shi dai", type: "work", ebook_count_i: 0, …}
+73: {has_fulltext: false, title: "Life on loan, 1859 (IN RUSSIAN LANGUAGE) / (ZHizn …ben; Der Himmel kennt keine Günstlinge (1959/61))", title_suggest: "Life on loan, 1859 (IN RUSSIAN LANGUAGE) / (ZHizn …ben; Der Himmel kennt keine Günstlinge (1959/61))", type: "work", ebook_count_i: 0, …}
+74: {has_fulltext: true, title: "Heaven has no favorites", title_suggest: "Heaven has no favorites", lending_identifier_s: "heavenhasnofavor00rema", ia_collection_s: "printdisabled;fav-sabina97777;americana;internetar…eader402;fav-charioteer2357;fav-mattynis;fav-dsoh", …}
+75: {cover_i: 8422918, has_fulltext: false, title: "ARC De Triomphe (German Edition)", title_suggest: "ARC De Triomphe (German Edition)", type: "work", …}
+76: {has_fulltext: false, title: "Sin Novedad En El Frente", title_suggest: "Sin Novedad En El Frente", type: "work", ebook_count_i: 0, …}
+77: {has_fulltext: false, title: "la noche mas larga", title_suggest: "la noche mas larga", type: "work", ebook_count_i: 0, …}
+78: {has_fulltext: false, title: "Xi xian wu zhan shi", title_suggest: "Xi xian wu zhan shi", type: "work", ebook_count_i: 0, …}
+79: {has_fulltext: false, title: "Die schwarze Obelisk", title_suggest: "Die schwarze Obelisk", type: "work", ebook_count_i: 0, …}
+80: {has_fulltext: false, title: "Apres (Der Weg zurück)", title_suggest: "Apres (Der Weg zurück)", type: "work", ebook_count_i: 0, …}
+81: {subtitle: "Erzählungen", has_fulltext: true, title: "Der Feind", title_suggest: "Der Feind", ia_collection_s: "printdisabled;librarygenesis", …}
+82: {subtitle: "October 18 to November 13, 1943, Knoedler Galleries ... New York.", has_fulltext: false, title: "Loan exhibition of the collection of pictures of Erich Maria Remarque", title_suggest: "Loan exhibition of the collection of pictures of Erich Maria Remarque", type: "work", …}
+83: {has_fulltext: false, title: "Bia mo  then", title_suggest: "Bia mo  then", type: "work", ebook_count_i: 0, …}
+84: {has_fulltext: false, title: "Hije në parajsë", title_suggest: "Hije në parajsë", type: "work", ebook_count_i: 0, …}
+85: {subtitle: "(Así termina la noche)", has_fulltext: false, title: "A la deriva", title_suggest: "A la deriva", type: "work", …}
+86: {has_fulltext: false, title: "Livsgnistan", title_suggest: "Livsgnistan", type: "work", ebook_count_i: 0, …}
+87: {has_fulltext: true, title: "Fronṭ", title_suggest: "Fronṭ", ia_collection_s: "nationalyiddishbookcenter", type: "work", …}
+88: {has_fulltext: false, title: "Flotsam, [by] Erich Maria Remarque, translated from the German by Denver Lindley", title_suggest: "Flotsam, [by] Erich Maria Remarque, translated from the German by Denver Lindley", type: "work", ebook_count_i: 0, …}
+89: {has_fulltext: false, title: "L' île d'espérance", title_suggest: "L' île d'espérance", type: "work", ebook_count_i: 0, …}
+90: {subtitle: "novela.", has_fulltext: false, title: "Se ama y se muere", title_suggest: "Se ama y se muere", type: "work", …}
+91: {has_fulltext: true, title: "In Western nichts Neues", title_suggest: "In Western nichts Neues", ia_collection_s: "printdisabled;librarygenesis", type: "work", …}
+92: {subtitle: "Im Westen nichts Neues", has_fulltext: false, title: "Mat tran mien Tay van yen tinh =", title_suggest: "Mat tran mien Tay van yen tinh =", type: "work", …}
+93: {has_fulltext: false, title: "Oyfn Marev-front kein nayes", title_suggest: "Oyfn Marev-front kein nayes", type: "work", ebook_count_i: 0, …}
+94: {subtitle: "Der Weg zurück Roman", has_fulltext: false, title: "Im Westen nichts Neues; Roman", title_suggest: "Im Westen nichts Neues; Roman", type: "work", …}
+95: {has_fulltext: false, title: "Après", title_suggest: "Après", type: "work", ebook_count_i: 0, …}
+96: {has_fulltext: false, title: "Tiden der fulgte", title_suggest: "Tiden der fulgte", type: "work", ebook_count_i: 0, …}
+97: {has_fulltext: false, title: "I︠A︡ zhiznʹi︠u︡ zhil pʹi︠a︡ni︠a︡shcheĭ i prekrasnoĭ ...", title_suggest: "I︠A︡ zhiznʹi︠u︡ zhil pʹi︠a︡ni︠a︡shcheĭ i prekrasnoĭ ...", type: "work", ebook_count_i: 0, …}
+98: {has_fulltext: false, title: "Iskra życia", title_suggest: "Iskra życia", type: "work", ebook_count_i: 0, …}
+99: {has_fulltext: false, title: "Die Nacht von Lissabon", title_suggest: "Die Nacht von Lissabon", type: "work", ebook_count_i: 0, …}
+length: 100

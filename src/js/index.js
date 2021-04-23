@@ -1,3 +1,4 @@
+import "regenerator-runtime/runtime";
 import '../styles/main.scss';
 
 import { Api } from "./utils/apiUtils.js";

@@ -43,17 +43,51 @@
     }
 
     .search-block__result {
-        // background-color: gray;
         flex-grow: 1;
         overflow: auto;
         min-height: 2em;
+
+        &::-webkit-scrollbar-track {
+            border-radius: 10px;
+            background-color: transparent;
+        }
+        &::-webkit-scrollbar {
+            width: 8px;
+            height: 16px;
+            border-radius: 10px;
+            background-color: transparent;
+        }
+        &::-webkit-scrollbar-thumb {
+            border-radius: 10px;
+            background-color: #dadce0;
+        }
         
-         // book height: 125px
+        .search-result__book-info {
+            padding: 10px;
+            border-bottom: 1px solid $colorGreenSecondary;
+            position: relative;
+            
+            // &.book_selected {
+            //     background-color: $colorGrayDark;
+            // }
 
-        .book {
+            .book-info__button {
+                width: 25px;
+                height: 25px;
+                border: 1px solid $colorGreenSecondary;
+                border-radius: 50%;
 
-            &.book_selected {
-                background-color: $colorGrayDark;
+                position: absolute;
+                bottom: -12px;
+                left: 50%;
+                z-index: 2;
+
+                background-color: $colorGreenSecondary;
+                background-image: url(/src/img/arrow.svg);
+                background-repeat: no-repeat;
+                background-size: contain;
+                background-position: center;
+                transform: rotate(90deg);
             }
         }
 
@@ -90,8 +124,4 @@
             flex-grow: 1;
         }
     }
-}
-
-.book_selected {
-    background-color: $colorGrayDark;
 }
